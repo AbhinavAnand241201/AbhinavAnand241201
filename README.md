@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on iOS development,using swift,Objective-c 👯 
-I’m looking to collaborate on Full Stack Projects 🤝 currently learning Building scalable backend systems 
+I’m looking to collaborate on Full Stack Projects 🤝 i'm currently learning Building scalable backend systems 
 
 
 ## 🌐 Socials:
